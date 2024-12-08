@@ -39,5 +39,5 @@ Strong problem-solving and algorithmic thinking.
 Experience working on full-stack projects in real-world environments.  
 
 🔗 **Connect with me:**  
-GitHub: [your-github-username](https://github.com/your-github-username)  
-LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+GitHub:  https://github.com/hadassaBrad/hadassaBrad/
+
