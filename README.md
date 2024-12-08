@@ -10,7 +10,7 @@ Welcome to my profile!
 ## 📚 **Education**  
 🎓 **2024 - Present** | **AWS Course by Coursera**  
 🎓 **2024** | **Advanced Full Stack Web Development Bootcamp**  
-   - An 3-month industry-based intensive coding bootcamp that focused on advanced full-stack technologies as TDD and more, Introduction to DevOps technologies such as Docker, CI/CD, and AWS, with an emphasis on practical use of GIT .
+   - A 3-month industry-based intensive coding bootcamp that focused on advanced full-stack technologies as TDD and more, Introduction to DevOps technologies such as Docker, CI/CD, and AWS, with an emphasis on practical use of GIT .
  Additionally, at the bootcamp we studied the topic of cyber defenses in the web world.
   
    - **Final Project:** Developed a full-stack eCommerce platform using Node.js, MongoDB, Next.js, and external API integrations.  
