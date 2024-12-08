@@ -1,43 +1,92 @@
-# 👩‍💻Hadassa Bradpiece  
-### Software Engineer | Full Stack Developer | Problem Solver  
+# 👩‍💻 Hadassa Bradpiece  
+### 🚀 Software Engineer | 🌐 Full Stack Developer | 🧩 Problem Solver  
 
-🎓 **Education**  
-**2024 - Present** | AWS Course by Coursera  
-**2024** | Advanced Full Stack Web Development Bootcamp  
+🌟 **Self-Learner | Creative Thinker | High Achiever** 🌟  
+Welcome to my profile! I'm Hadassa, a passionate software engineer driven by a love for solving complex problems and creating impactful solutions. With a blend of technical expertise, creative insight, and a strong work ethic, I aim to turn innovative ideas into reality.  
+
+---
+
+## 📚 **Education**  
+🎓 **2024 - Present** | **AWS Course by Coursera**  
+🎓 **2024** | **Advanced Full Stack Web Development Bootcamp**  
    - Intensive 3-month program focusing on TDD, DevOps (Docker, CI/CD, AWS), and Git.  
-   - **Final Project:** Full-stack eCommerce platform with Node.js, MongoDB, Next.js, and integration of external APIs.  
-**2022 - 2024** | Computer Science, Foreign Studies Branch, Lev Academic Center  
-   - **Graduated cum laude** (GPA: 85)  
-   - Projects:  
-     - Personalized travel itinerary planner using React, Node.js, and MySQL with advanced DFS algorithm.  
+   - **Final Project:** Developed a full-stack eCommerce platform using Node.js, MongoDB, Next.js, and external API integrations.  
+
+🎓 **2022 - 2024** | **B.Sc. in Computer Science**, Lev Academic Center  
+   - **Graduated Cum Laude** (GPA: 85)  
+   - **Highlighted Projects:**  
+     - Personalized travel itinerary planner with React, Node.js, and MySQL, featuring advanced DFS algorithms.  
      - Multi-tier task management app for architects using C# and .NET Core.  
-   - **Relevant Courses:** Cybersecurity, Machine Learning, Deep Learning, Advanced Algorithms, and Discrete Mathematics.  
+   - **Relevant Courses:** Cybersecurity, Machine Learning, Advanced Algorithms, Discrete Mathematics.  
 
-📚 **Experience**  
-**2023 - Present** | Private Tutor for Programming and Mathematics  
-  Teaching high school students, focusing on foundational programming concepts and advanced mathematics topics.  
+---
 
-💡 **Technical Skills**  
-**Programming Languages:** C#, Python, C++, Java  
-**Frontend:** React, Next.js, TypeScript, TailwindCSS, Bootstrap  
-**Backend & Databases:** Node.js, Express, MongoDB, Mongoose, MySQL  
-**DevOps:** Docker, CI/CD, AWS Basics  
-**Tools:** Git, GitHub  
-**Operating Systems:** Linux, Windows  
+## 💻 **Professional Experience**  
+📝 **2023 - Present** | **Private Tutor in Programming and Mathematics**  
+   - Educating high school students in programming foundations and advanced mathematical topics, tailored to individual needs.  
 
-🌐 **Languages**  
-Hebrew (Native)  
-English (Professional Proficiency)  
+---
 
-🤝 **Volunteering**  
-**2021:** Content writer for high school social events.  
-**2020:** Volunteer team manager for cancer patient fundraising.  
+## 💡 **Technical Skills**  
 
-📈 **Core Strengths**  
-Quick learner and adaptive to new technologies.  
-Strong problem-solving and algorithmic thinking.  
-Experience working on full-stack projects in real-world environments.  
+### 🔧 **Programming Languages:**  
+<p>
+<img src="https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-C%2B%2B-purple?logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white" alt="Java"/>
+</p>
 
-🔗 **Connect with me:**  
-GitHub:  https://github.com/hadassaBrad/hadassaBrad/
+### 🌐 **Frontend:**  
+<p>
+<img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/-TypeScript-lightblue?logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/-Bootstrap-violet?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
+### 🖥️ **Backend & Databases:**  
+<p>
+<img src="https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/-Express-grey?logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### ⚙️ **DevOps:**  
+<p>
+<img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/-CI%2FCD-orange?logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/-AWS-yellow?logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
+
+### 🛠️ **Other Tools:**  
+<p>
+<img src="https://img.shields.io/badge/-Git-black?logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/-GitHub-lightgrey?logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+## 🌐 **Languages**  
+- 🇮🇱 Hebrew – Native  
+- 🇬🇧 English – Professional Proficiency  
+
+---
+
+## 💪 **Core Strengths**  
+- Quick learner with a passion for adopting new technologies.  
+- Strong analytical and algorithmic thinking.  
+- Proven experience in real-world full-stack projects.  
+
+---
+
+## 🤝 **Volunteering**  
+- **2021:** Content writing for high school social events.  
+- **2020:** Team manager for a cancer patient fundraising initiative.  
+
+---
+
+## 🔗 **Connect with Me**  
+- **GitHub:** [Hadassa Bradpiece](https://github.com/hadassaBrad/hadassaBrad)  
