@@ -4,6 +4,7 @@
 🌟 **Self-Learner | Creative Thinker | High Achiever | Team Player** 🌟  
 Welcome to my profile! 
  I'm Hadassa, a dedicated software engineer fueled by a passion for building impactful solutions and tackling complex challenges. Combining technical expertise, innovative thinking, and  teamwork skills, I thrive in collaborative environments where creativity and problem-solving go hand in hand. Whether working independently or as part of a team, I am committed to delivering results with focus, adaptability, and attention to detail. 
+ 
 ---
 
 ## 📚 **Education**  
