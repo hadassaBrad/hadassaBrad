@@ -9,11 +9,7 @@ Welcome to my profile!
 
 ---
 
-## 💻 **Professional Experience**  
-📝 **2023 - Present** | **Private Tutor in Programming and Mathematics**  
-   - Educating high school students in programming foundations and advanced mathematical topics, tailored to individual needs.  
 
----
 
 ## 💡 **Technical Skills**  
 
