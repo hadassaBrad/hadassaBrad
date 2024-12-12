@@ -5,22 +5,7 @@
 Welcome to my profile! 
  I'm Hadassa, a dedicated software engineer fueled by a passion for building impactful solutions and tackling complex challenges. Combining technical expertise, innovative thinking, and  teamwork skills, I thrive in collaborative environments where creativity and problem-solving go hand in hand. Whether working independently or as part of a team, I am committed to delivering results with focus, adaptability, and attention to detail. 
  
----
 
-## 📚 **Education**  
-🎓 **2024 - Present** | **AWS Course by Coursera**  
-🎓 **2024** | **Advanced Full Stack Web Development Bootcamp**  
-   - A 3-month industry-based intensive coding bootcamp that focused on advanced full-stack technologies as TDD and more, Introduction to DevOps technologies such as Docker, CI/CD, and AWS, with an emphasis on practical use of GIT .
- Additionally, at the bootcamp we studied the topic of cyber defenses in the web world.
-  
-   - **Final Project:** Developed a full-stack eCommerce platform using Node.js, MongoDB, Next.js, and external API integrations.  
-
-🎓 **2022 - 2024** | **B.Sc. in Computer Science**, Lev Academic Center  
-   - **Graduated Cum Laude** (GPA: 85)  
-   - **Highlighted Projects:**  
-     - Personalized travel itinerary planner with React, Node.js, and MySQL, featuring advanced DFS algorithms.  
-     - Multi-tier task management app for architects using C# and .NET Core.  
-   - **Relevant Courses:** Cybersecurity, Machine Learning, Advanced Algorithms, Discrete Mathematics.  
 
 ---
 
